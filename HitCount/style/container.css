@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-container{
+    width: 90vw;
+    margin: auto;
+    padding: 1.2em;
+}
+
+.side-img {
+    float: right;
+    margin-right: 3em;
+    margin-left: 3em;
+}
+
+.clear {
+    clear: both;
+}
+
+.content-container p {
+    font-size: 1.1em;
+}
