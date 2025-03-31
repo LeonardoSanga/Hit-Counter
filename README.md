@@ -1,4 +1,4 @@
-# Hit-Counter
+# Hit Counter
 A aplicação se propõe a registrar os acessos às três páginas do site: Início, Sobre e Contato. Essas informações são armazenadas em arquivos de texto e exibidas na tela Logs de Acesso para usuários que possuam a chave de acesso (<strong>"senha_da_nasa"</strong>). Além da quantidade de acessos a cada uma das páginas, um registro contendo o IP do usuário, o navegador utilizado e a data e horário de acesso é mantido para cada visita a uma das páginas.
 
 ## Infraestrutura e Deploy da Aplicação 
@@ -13,7 +13,7 @@ Para garantir a acessibilidade da aplicação e a administração remota do serv
 ### Chave de acesso a Log de Acessos: <strong>"senha_da_nasa"</strong>.
 
 
-## AS Três Páginas Principais
+## As Três Páginas Principais
 ### Início
 ![image](https://github.com/user-attachments/assets/bdf94a2c-05b9-45b7-800f-5e4aa451fff3)
 
