@@ -10,7 +10,7 @@ Para garantir a acessibilidade da aplicação e a administração remota do serv
   <li>Porta 21 (FTP) – para transferência de arquivos.</li>
 </ul>
 
-### Chave de acesso a Log de Acessos: <strong>"senha_da_nasa"</strong>
+### Chave de acesso a Log de Acessos: <strong>"senha_da_nasa"</strong>.
 
 
 ## AS Três Páginas Principais
