@@ -1,4 +1,4 @@
-# Hit Counter
+# Contador de Acessos
 A aplicação se propõe a registrar os acessos às três páginas do site: Início, Sobre e Contato. Essas informações são armazenadas em arquivos de texto e exibidas na tela Logs de Acesso para usuários que possuam a chave de acesso (<strong>"senha_da_nasa"</strong>). Além da quantidade de acessos a cada uma das páginas, um registro contendo o IP do usuário, o navegador utilizado e a data e horário de acesso é mantido para cada visita a uma das páginas.
 
 ## Infraestrutura e Deploy da Aplicação 
